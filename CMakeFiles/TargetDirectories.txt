@@ -1,0 +1,4 @@
+/Users/sookim/cse6140/CMakeFiles/gitclean.dir
+/Users/sookim/cse6140/CMakeFiles/runGA.dir
+/Users/sookim/cse6140/CMakeFiles/sample.dir
+/Users/sookim/cse6140/src/CMakeFiles/CSE6140Utilities.dir
